@@ -6,6 +6,7 @@ import PlanetAnimation from "./components/PlanetaAnimation";
 import confetti from "canvas-confetti"
 
 import { useState } from "react";
+// Este es un comentario para forzar un nuevo commit
 
 //Jugadores/Fichas
 const turns = {
