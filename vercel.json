@@ -1,0 +1,16 @@
+{
+    "static": {
+      "headers": [
+        {
+          "source": "**/*.riv",
+          "headers": [
+            {
+              "key": "Content-Type",
+              "value": "application/octet-stream"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
